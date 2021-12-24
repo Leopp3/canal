@@ -1,7 +1,5 @@
 #EXTM3U
 
-##########TV Aberta#########
-
 #EXTINF:-1 tvg-logo = "https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png"
 group-title="TV ABERTA", RECORD 
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-b.m3u8?sd=10&rebase=on
@@ -17,8 +15,6 @@ https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=7
 #EXTINF:-1 tvg-logo="https://stcotvfoco.com.br/2013/07/sbt.jpg" 
 group-title="TV ABERTA" SBT
 https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist_w1978176855.m3u8
-
-##########Esportes##########
 
 #EXTINF:-1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/espn-logo_divulgacao-590x219.png" 
 group-title="ESPORTES" ESPN
