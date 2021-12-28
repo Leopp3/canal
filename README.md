@@ -25,7 +25,7 @@ https://assistirtv.xyz/sportv3/video.m3u8?token=7a5b5656719aa17ada9374970b11d524
 https://assistirtv.xyz/sportv2/video.m3u8?token=f2368e6fbf6095d8d759198b7cf2548a162fa3a8-cb31455984af56237ae484925abc36cf-1640545642-1640534842&remote=168.205.62.85
 
 #EXTINF: -1 tvg-logo="" group-title="ESPORTES",FOX SPORTS2
-https://assistirtv.xyz/fox-sports2/video.m3u8?token=85214494564bf6edeea24649059f6886943356ab-40ccfdb1d08105ffe9c2eb77e6bd524f-1640545946-1640535146&remote=168.205.62.85
+https://content-asae1-up-2.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/e.m3u8?exp=1640709263&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&iph=4b31ffc8a5f1a65e300783e65b04a21eb2e6b92b1e0165d10f19c87f261f2800&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=1255248e34c497fd7063ac278e2a5b11bb3b2007f1753031dd23625f04e2bdc4&pbs=d7465a5116a74b2682f7e4f312ff2df2
 
 #EXTINF: -1 tvg-logo="https://mpng.subpng.com/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="SERIES",FX
 https://content-asae1-up-2.uplynk.com/channel/c4d5b5ce76034d9c96c0596c87a76e3a/e.m3u8?exp=1640708472&ct=c&cid=c4d5b5ce76034d9c96c0596c87a76e3a&expand=drmOff&iph=4b31ffc8a5f1a65e300783e65b04a21eb2e6b92b1e0165d10f19c87f261f2800&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=788d9c0978b8b924235131d484bb7e8167f1f54b9f06e61f8784ac0826fd93e4&pbs=04b5d97d11c74ae7b4c376ce305bc0e2
