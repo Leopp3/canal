@@ -24,14 +24,14 @@ https://assistirtv.xyz/sportv3/video.m3u8?token=7a5b5656719aa17ada9374970b11d524
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="ESPORTES",SPORTV2
 https://assistirtv.xyz/sportv2/video.m3u8?token=f2368e6fbf6095d8d759198b7cf2548a162fa3a8-cb31455984af56237ae484925abc36cf-1640545642-1640534842&remote=168.205.62.85
 
-#EXTINF: -1 tvg-logo="" group-title="ESPORTES",FOX SPORTS2
+#EXTINF: -1 tvg-logo="https://www.gratispng.com/png-6zu1ma/download.html" group-title="ESPORTES",FOX SPORTS2
 https://content-asae1-up-2.uplynk.com/channel/079d58338d294099914fc3e879c8e3ac/e.m3u8?exp=1640709263&ct=c&cid=079d58338d294099914fc3e879c8e3ac&expand=drmOff&iph=4b31ffc8a5f1a65e300783e65b04a21eb2e6b92b1e0165d10f19c87f261f2800&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=1255248e34c497fd7063ac278e2a5b11bb3b2007f1753031dd23625f04e2bdc4&pbs=d7465a5116a74b2682f7e4f312ff2df2
 
 #EXTINF: -1 tvg-logo="https://mpng.subpng.com/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="SERIES",FX
 https://assistirtv.xyz/fx/video.m3u8?token=c1d3b1138c67876dd2055aad9610788e5aef77b9-ecfc102f17c76c7d111a5fa1d9eb4435-1640804555-1640793755&remote=168.205.62.122
 
 #EXTINF: -1 tvg-logo="https://yuledark.co.za/wp-content/uploads/2021/07/Studio-Universal-768x270.jpg" group-title="SERIES",STUDIO UNIVERSAL
-https://assistirtv.xyz/studio-universal/video.m3u8?token=c177298f678faab89b88e0fbf2b8ce82100f4ca6-b77a6906b03ee9f3b224270ebdbbb953-1640546536-1640535736&remote=168.205.62.85 
+https://assistirtv.xyz/studio-universal/video.m3u8?token=ba42a6abd2f29cd7e7f0cc8fa49d464a5ff69d9e-a24dbf9cc89735bf7eb20170bfc86dfd-1640806829-1640796029&remote=168.205.62.96
 
 #EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180730/bgs/kisspng-logo-tnt-brand-television-channel-turner-broadcast-warner-music-logo-5b5eca20f14e79.5383225515329387849884.jpg" group-title="SERIES",TNT
 https://assistirtv.xyz/tnt/video.m3u8?token=cb207c020cb44ca77b15e56b8140fc271b26b670-12b9b31837375ed68c4d051e5acae591-1640804252-1640793452&remote=168.205.62.122
@@ -40,7 +40,7 @@ https://assistirtv.xyz/tnt/video.m3u8?token=cb207c020cb44ca77b15e56b8140fc271b26
 https://assistirtv.xyz/hbo-plus/video.m3u8?token=3dcade327e9459d3d2f7cb0030f99b524bfeaab7-3e56128aad74e2151cdf0c40eceff846-1640805176-1640794376&remote=168.205.63.6
 
 #EXTINF: -1 tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="SERIES",SPACE
-https://assistirtv.xyz/space/video.m3u8?token=b1f9ef6a14a0860d19c7a7385639fdffc693fa64-5f56a0cd1ea30868ae8f58296f326154-1640547317-1640536517&remote=168.205.62.85
+https://assistirtv.xyz/space/video.m3u8?token=f4f74f23a2340b213d1516b02305356f3b332e82-68d95f7bae1f74ec3b72ffcde3b89a7d-1640806711-1640795911&remote=168.205.62.96
 
 #EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/80-807349_nickelodeon-logo-png-logos-in-orange-colour-transparent.png" group-title="DESENHOS",NICKELODEON
 https://assistirtv.xyz/nick/video.m3u8?token=0aa0a796226676c51537b3ea183406854e6c86be-d028fc3f45f257527e5e730fbcc2bcbb-1640805642-1640794842&remote=168.205.62.96
