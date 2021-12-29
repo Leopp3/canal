@@ -43,4 +43,4 @@ https://assistirtv.xyz/hbo-plus/video.m3u8?token=3dcade327e9459d3d2f7cb0030f99b5
 https://assistirtv.xyz/space/video.m3u8?token=b1f9ef6a14a0860d19c7a7385639fdffc693fa64-5f56a0cd1ea30868ae8f58296f326154-1640547317-1640536517&remote=168.205.62.85
 
 #EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/80-807349_nickelodeon-logo-png-logos-in-orange-colour-transparent.png" group-title="DESENHOS",NICKELODEON
-https://assistirtv.xyz/nick/video.m3u8?token=118eef772b99a0fa5da789b77be7fe56db1beeaa-d7de76b58bd583b7510f8ac0a850c829-1640544994-1640534194&remote=168.205.62.85
+https://assistirtv.xyz/nick/video.m3u8?token=0aa0a796226676c51537b3ea183406854e6c86be-d028fc3f45f257527e5e730fbcc2bcbb-1640805642-1640794842&remote=168.205.62.96
