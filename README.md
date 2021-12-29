@@ -37,7 +37,7 @@ https://assistirtv.xyz/studio-universal/video.m3u8?token=c177298f678faab89b88e0f
 https://assistirtv.xyz/tnt/video.m3u8?token=cb207c020cb44ca77b15e56b8140fc271b26b670-12b9b31837375ed68c4d051e5acae591-1640804252-1640793452&remote=168.205.62.122
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="SERIES",HBO PLUS
-https://assistirtv.xyz/hbo-plus/video.m3u8?token=1fe19e827201a7dab3248f5a68e7ee50fcd76f50-241918afc02897e55ae3d5c0d82b7d09-1640547146-1640536346&remote=168.205.62.85
+https://assistirtv.xyz/hbo-plus/video.m3u8?token=3dcade327e9459d3d2f7cb0030f99b524bfeaab7-3e56128aad74e2151cdf0c40eceff846-1640805176-1640794376&remote=168.205.63.6
 
 #EXTINF: -1 tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="SERIES",SPACE
 https://assistirtv.xyz/space/video.m3u8?token=b1f9ef6a14a0860d19c7a7385639fdffc693fa64-5f56a0cd1ea30868ae8f58296f326154-1640547317-1640536517&remote=168.205.62.85
