@@ -34,7 +34,7 @@ https://content-asae1-up-1.uplynk.com/channel/33ca31585a694bcba633e1316070d9c0/e
 https://assistirtv.xyz/studio-universal/video.m3u8?token=c177298f678faab89b88e0fbf2b8ce82100f4ca6-b77a6906b03ee9f3b224270ebdbbb953-1640546536-1640535736&remote=168.205.62.85 
 
 #EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180730/bgs/kisspng-logo-tnt-brand-television-channel-turner-broadcast-warner-music-logo-5b5eca20f14e79.5383225515329387849884.jpg" group-title="SERIES",TNT
-https://assistirtv.xyz/tnt-serie/video.m3u8?token=c9af98d35c30b5329972013f1adc466a482b1e38-54de416adcb56f6d4e7044fe36372802-1640546684-1640535884&remote=168.205.62.85
+https://assistirtv.xyz/tnt/video.m3u8?token=cb207c020cb44ca77b15e56b8140fc271b26b670-12b9b31837375ed68c4d051e5acae591-1640804252-1640793452&remote=168.205.62.122
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="SERIES",HBO PLUS
 https://assistirtv.xyz/hbo-plus/video.m3u8?token=1fe19e827201a7dab3248f5a68e7ee50fcd76f50-241918afc02897e55ae3d5c0d82b7d09-1640547146-1640536346&remote=168.205.62.85
