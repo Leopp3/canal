@@ -39,8 +39,8 @@ https://transcoder-itatiba-01.nxplay.com.br/TNT/tracks-v1a1l1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="SERIES",HBO PLUS
 https://assistirtv.xyz/hbo-plus/video.m3u8?token=b68788f8c9a35c6b0ff8acc62f56601f17d2c0f4-cbfbc12273d2b465257709186af1c034-1641002714-1640991914&remote=168.205.62.81
 
-#EXTINF: -1 tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="SERIES",SPACE
-https://assistirtv.xyz/space/video.m3u8?token=f4f74f23a2340b213d1516b02305356f3b332e82-68d95f7bae1f74ec3b72ffcde3b89a7d-1640806711-1640795911&remote=168.205.62.96
+#EXTINF: -1 tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="SERIES",TBS
+https://assistirtv.xyz/tbs/video.m3u8?token=92ac371ae97cfe9e1dd8b0c1f82d0a6ceb5647dd-ff4bd39f25888d5f1c4fbf966d8fb572-1641003324-1640992524&remote=168.205.62.81
 
 #EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/80-807349_nickelodeon-logo-png-logos-in-orange-colour-transparent.png" group-title="DESENHOS",NICKELODEON
 https://assistirtv.xyz/nick/video.m3u8?token=0aa0a796226676c51537b3ea183406854e6c86be-d028fc3f45f257527e5e730fbcc2bcbb-1640805642-1640794842&remote=168.205.62.96
