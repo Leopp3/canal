@@ -37,7 +37,7 @@ https://assistirtv.xyz/studio-universal/video.m3u8?token=391b3322d4e8b40d18da263
 https://transcoder-itatiba-01.nxplay.com.br/TNT/tracks-v1a1l1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="SERIES",HBO PLUS
-https://assistirtv.xyz/hbo-plus/video.m3u8?token=3dcade327e9459d3d2f7cb0030f99b524bfeaab7-3e56128aad74e2151cdf0c40eceff846-1640805176-1640794376&remote=168.205.63.6
+https://assistirtv.xyz/hbo-plus/video.m3u8?token=b68788f8c9a35c6b0ff8acc62f56601f17d2c0f4-cbfbc12273d2b465257709186af1c034-1641002714-1640991914&remote=168.205.62.81
 
 #EXTINF: -1 tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="SERIES",SPACE
 https://assistirtv.xyz/space/video.m3u8?token=f4f74f23a2340b213d1516b02305356f3b332e82-68d95f7bae1f74ec3b72ffcde3b89a7d-1640806711-1640795911&remote=168.205.62.96
