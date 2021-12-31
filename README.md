@@ -19,7 +19,7 @@ https://transcoder-itatiba-01.nxplay.com.br/ESPN_INT/tracks-v1a1/mono.m3u8
 https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="ESPORTES",SPORTV3
-https://assistirtv.xyz/sportv3/video.m3u8?token=7a5b5656719aa17ada9374970b11d52468bc6e19-7c2d75dd47ca9256f74b0556307a94aa-1640545330-1640534530&remote=168.205.62.85
+https://assistirtv.xyz/sportv3/video.m3u8?token=4b30580e7ad6b80da1471065ccab2a8a2d1133dc-984be560dd37ae69c03b6b8e3b325ba0-1641001730-1640990930&remote=168.205.62.81
 
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="ESPORTES",SPORTV2
 https://assistirtv.xyz/sportv2/video.m3u8?token=f2368e6fbf6095d8d759198b7cf2548a162fa3a8-cb31455984af56237ae484925abc36cf-1640545642-1640534842&remote=168.205.62.85
