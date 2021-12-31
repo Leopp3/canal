@@ -30,13 +30,13 @@ https://assistirtv.xyz/fox-sports2/video.m3u8?token=1dff81fedcb2f61c40e648f642a9
 #EXTINF: -1 tvg-logo="https://mpng.subpng.com/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="SERIES",FX
 https://assistirtv.xyz/fx/video.m3u8?token=9cd9fb4a2bdfc39b96ecdd0f6178c72630ac39d0-2040c73380dd333fc51a06c5ac75f7d4-1641002104-1640991304&remote=168.205.62.81
 
-#EXTINF: -1 tvg-logo="https://yuledark.co.za/wp-content/uploads/2021/07/Studio-Universal-768x270.jpg" group-title="SERIES",STUDIO UNIVERSAL
+#EXTINF: -1 tvg-logo="https://yuledark.co.za/wp-content/uploads/2021/07/Studio-Universal-768x270.jpg" group-title="FILMES",STUDIO UNIVERSAL
 https://assistirtv.xyz/studio-universal/video.m3u8?token=391b3322d4e8b40d18da263b7f974e4623ec8c5c-1699428adde5c7fd0f43d7adb5fa3d68-1641002355-1640991555&remote=168.205.62.81
 
 #EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180730/bgs/kisspng-logo-tnt-brand-television-channel-turner-broadcast-warner-music-logo-5b5eca20f14e79.5383225515329387849884.jpg" group-title="SERIES",TNT
 https://transcoder-itatiba-01.nxplay.com.br/TNT/tracks-v1a1l1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="SERIES",HBO PLUS
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="FILMES",HBO PLUS
 https://assistirtv.xyz/hbo-plus/video.m3u8?token=b68788f8c9a35c6b0ff8acc62f56601f17d2c0f4-cbfbc12273d2b465257709186af1c034-1641002714-1640991914&remote=168.205.62.81
 
 #EXTINF: -1 tvg-logo="https://pt.m.wikipedia.org/wiki/TBS_Brasil#/media/Ficheiro%3ATBS_logo_2016.svg" group-title="SERIES",TBS
@@ -44,3 +44,6 @@ https://assistirtv.xyz/tbs/video.m3u8?token=92ac371ae97cfe9e1dd8b0c1f82d0a6ceb56
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Warner_Bros_logo.svg" group-title="FILMES",WARNER BROS
 https://assistirtv.xyz/warner/video.m3u8?token=9448d0a7b4dc0a76eb410cfd9e79617417b9d096-12965b90760c535edb66282dad89afe3-1641003652-1640992852&remote=168.205.62.81
+
+#EXTINF: -1 tvg-logo="" group-title="",VIVA
+https://assistirtv.xyz/viva/video.m3u8?token=2f685ffab353786b0f99d10803eb1d61d7cc782f-0548fa86ffb5c76e79a161b2f88eb0f8-1640804996-1640794196&remote=168.205.63.6
