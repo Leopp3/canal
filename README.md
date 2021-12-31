@@ -42,5 +42,5 @@ https://assistirtv.xyz/hbo-plus/video.m3u8?token=b68788f8c9a35c6b0ff8acc62f56601
 #EXTINF: -1 tvg-logo="https://sebastiandietsch.com/wp-content/uploads/2019/03/canal-space-png-1.png" group-title="SERIES",TBS
 https://assistirtv.xyz/tbs/video.m3u8?token=92ac371ae97cfe9e1dd8b0c1f82d0a6ceb5647dd-ff4bd39f25888d5f1c4fbf966d8fb572-1641003324-1640992524&remote=168.205.62.81
 
-#EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/80-807349_nickelodeon-logo-png-logos-in-orange-colour-transparent.png" group-title="DESENHOS",NICKELODEON
-https://assistirtv.xyz/nick/video.m3u8?token=0aa0a796226676c51537b3ea183406854e6c86be-d028fc3f45f257527e5e730fbcc2bcbb-1640805642-1640794842&remote=168.205.62.96
+#EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/80-807349_nickelodeon-logo-png-logos-in-orange-colour-transparent.png" group-title="DESENHOS",WARNER BROS
+https://assistirtv.xyz/warner/video.m3u8?token=9448d0a7b4dc0a76eb410cfd9e79617417b9d096-12965b90760c535edb66282dad89afe3-1641003652-1640992852&remote=168.205.62.81
