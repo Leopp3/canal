@@ -28,7 +28,7 @@ https://assistirtv.xyz/sportv2/video.m3u8?token=f1f1ef8770f4dc853c0737ae97673750
 https://assistirtv.xyz/fox-sports2/video.m3u8?token=1dff81fedcb2f61c40e648f642a9c077d3e75e44-986068450e60203ab402c96ebfd16109-1641001459-1640990659&remote=168.205.62.81
 
 #EXTINF: -1 tvg-logo="https://mpng.subpng.com/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="SERIES",FX
-https://assistirtv.xyz/fx/video.m3u8?token=c1d3b1138c67876dd2055aad9610788e5aef77b9-ecfc102f17c76c7d111a5fa1d9eb4435-1640804555-1640793755&remote=168.205.62.122
+https://assistirtv.xyz/fx/video.m3u8?token=9cd9fb4a2bdfc39b96ecdd0f6178c72630ac39d0-2040c73380dd333fc51a06c5ac75f7d4-1641002104-1640991304&remote=168.205.62.81
 
 #EXTINF: -1 tvg-logo="https://yuledark.co.za/wp-content/uploads/2021/07/Studio-Universal-768x270.jpg" group-title="SERIES",STUDIO UNIVERSAL
 https://assistirtv.xyz/studio-universal/video.m3u8?token=ba42a6abd2f29cd7e7f0cc8fa49d464a5ff69d9e-a24dbf9cc89735bf7eb20170bfc86dfd-1640806829-1640796029&remote=168.205.62.96
