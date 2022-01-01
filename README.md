@@ -36,17 +36,3 @@ https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e
 #EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180730/bgs/kisspng-logo-tnt-brand-television-channel-turner-broadcast-warner-music-logo-5b5eca20f14e79.5383225515329387849884.jpg" group-title="SERIES",TNT
 https://transcoder-itatiba-01.nxplay.com.br/TNT/tracks-v1a1l1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/HBO_Plus.png/640px-HBO_Plus.png" group-title="FILMES",HBO PLUS
-https://assistirtv.xyz/hbo-plus/video.m3u8?token=b68788f8c9a35c6b0ff8acc62f56601f17d2c0f4-cbfbc12273d2b465257709186af1c034-1641002714-1640991914&remote=168.205.62.81
-
-#EXTINF: -1 tvg-logo="https://pt.m.wikipedia.org/wiki/TBS_Brasil#/media/Ficheiro%3ATBS_logo_2016.svg" group-title="SERIES",TBS
-https://assistirtv.xyz/tbs/video.m3u8?token=92ac371ae97cfe9e1dd8b0c1f82d0a6ceb5647dd-ff4bd39f25888d5f1c4fbf966d8fb572-1641003324-1640992524&remote=168.205.62.81
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Warner_Bros_logo.svg" group-title="FILMES",WARNER BROS
-https://assistirtv.xyz/warner/video.m3u8?token=9448d0a7b4dc0a76eb410cfd9e79617417b9d096-12965b90760c535edb66282dad89afe3-1641003652-1640992852&remote=168.205.62.81
-
-#EXTINF: -1 tvg-logo="https://pt.m.wikipedia.org/wiki/Viva_(canal_de_televis%C3%A3o_brasileiro)#/media/Ficheiro%3ACanal_Viva_2018_wordmark.svg" group-title="ENTRETENIMENTO",VIVA
-https://assistirtv.xyz/viva/video.m3u8?token=acc78f4bb546e195adc80b84d6aa8b0658fd3898-4c1193d54dde2bf0c0d474fa2cd66ac0-1641005579-1640994779&remote=168.205.62.81
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV ABERTA",GLOBO
-https://assistirtv.xyz/globo-sp/video.m3u8?token=dfb15f9b91a8c52c888ea32f033083a0df041476-ed9818204a3d6f46d4adeea61a5f0299-1641001242-1640990442&remote=168.205.62.81
