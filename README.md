@@ -24,14 +24,14 @@ https://assistirtv.xyz/sportv3/video.m3u8?token=4b30580e7ad6b80da1471065ccab2a8a
 #EXTINF: -1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo-0.png" group-title="ESPORTES",SPORTV2
 https://assistirtv.xyz/sportv2/video.m3u8?token=f1f1ef8770f4dc853c0737ae9767375049f69642-463a93faeaaf5dfe7148308656ee27e0-1641001850-1640991050&remote=168.205.62.81
 
-#EXTINF: -1 tvg-logo="https://www.gratispng.com/png-6zu1ma/download.html" group-title="ESPORTES",FOX SPORTS2
-https://assistirtv.xyz/fox-sports2/video.m3u8?token=1dff81fedcb2f61c40e648f642a9c077d3e75e44-986068450e60203ab402c96ebfd16109-1641001459-1640990659&remote=168.205.62.81
+#EXTINF: -1 tvg-logo="https://www.gratispng.com/png-6zu1ma/download.html" group-title="ESPORTES",FOX SPORTS
+https://content-asae1-up-2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e.m3u8?exp=1641039740&ct=c&cid=7889811e7efb47f4a012cfba6ed4f2f9&expand=drmOff&iph=9c793d187a9c37f79c698ec5dd6812d42b22647966decfcd93539ff0e77294f0&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=51db8e49fcf33c3ffafb5c491baabcbbe3fc9dea15f15d6894a4e93abb20e3ff&pbs=e0b6c6ed9cfe4118865d3501bbdf2495
 
 #EXTINF: -1 tvg-logo="https://mpng.subpng.com/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="SERIES",FX
-https://assistirtv.xyz/fx/video.m3u8?token=9cd9fb4a2bdfc39b96ecdd0f6178c72630ac39d0-2040c73380dd333fc51a06c5ac75f7d4-1641002104-1640991304&remote=168.205.62.81
+https://content-asae1-up-2.uplynk.com/channel/c4d5b5ce76034d9c96c0596c87a76e3a/e.m3u8?exp=1641040043&ct=c&cid=c4d5b5ce76034d9c96c0596c87a76e3a&expand=drmOff&iph=9c793d187a9c37f79c698ec5dd6812d42b22647966decfcd93539ff0e77294f0&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=3475d55a37c34a50003284dde3866db098222b7843fd436a518418ba095e9c1a&pbs=5f5e1f03dc774f0289f2532c1504c5d2
 
-#EXTINF: -1 tvg-logo="https://yuledark.co.za/wp-content/uploads/2021/07/Studio-Universal-768x270.jpg" group-title="FILMES",STUDIO UNIVERSAL
-https://assistirtv.xyz/studio-universal/video.m3u8?token=391b3322d4e8b40d18da263b7f974e4623ec8c5c-1699428adde5c7fd0f43d7adb5fa3d68-1641002355-1640991555&remote=168.205.62.81
+#EXTINF: -1 tvg-logo="https://yuledark.co.za/wp-content/uploads/2021/07/Studio-Universal-768x270.jpg" group-title="FILMES",FOX PREMIUM
+https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1641040421&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=9c793d187a9c37f79c698ec5dd6812d42b22647966decfcd93539ff0e77294f0&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=4728c34c2456f3d03e02f94c6e483329ea72e2e1eab48f41a8f90678c589802d&pbs=fbca3c1e41c642d1a441c133906e8b4b
 
 #EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180730/bgs/kisspng-logo-tnt-brand-television-channel-turner-broadcast-warner-music-logo-5b5eca20f14e79.5383225515329387849884.jpg" group-title="SERIES",TNT
 https://transcoder-itatiba-01.nxplay.com.br/TNT/tracks-v1a1l1/mono.m3u8
