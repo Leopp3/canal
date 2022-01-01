@@ -24,7 +24,7 @@ https://content-asae1-up-2.uplynk.com/channel/7889811e7efb47f4a012cfba6ed4f2f9/e
 #EXTINF: -1 tvg-logo="https://mpng.subpng.com/20180718/fuo/kisspng-fxx-logo-television-show-television-channel-tv-channel-5b4f9da9c53a95.0344326115319443618079.jpg" group-title="SERIES",FX
 https://content-asae1-up-2.uplynk.com/channel/c4d5b5ce76034d9c96c0596c87a76e3a/e.m3u8?exp=1641040043&ct=c&cid=c4d5b5ce76034d9c96c0596c87a76e3a&expand=drmOff&iph=9c793d187a9c37f79c698ec5dd6812d42b22647966decfcd93539ff0e77294f0&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=3475d55a37c34a50003284dde3866db098222b7843fd436a518418ba095e9c1a&pbs=5f5e1f03dc774f0289f2532c1504c5d2
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/FOX_Logo.jpg" group-title="FILMES",FOX PREMIUM
+#EXTINF: -1 tvg-logo="https://www.gratispng.com/png-opmt2c/download.html" group-title="FILMES",FOX PREMIUM
 https://content-asae1-up-1.uplynk.com/channel/9f7a5e9ec43f42ba87bce6a3ee976973/e.m3u8?exp=1641040421&ct=c&cid=9f7a5e9ec43f42ba87bce6a3ee976973&expand=drmOff&iph=9c793d187a9c37f79c698ec5dd6812d42b22647966decfcd93539ff0e77294f0&euid={8A73B25D-7678-4E61-8B49-32B6C2FD8C0C}_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=4728c34c2456f3d03e02f94c6e483329ea72e2e1eab48f41a8f90678c589802d&pbs=fbca3c1e41c642d1a441c133906e8b4b
 
 #EXTINF: -1 tvg-logo="https://img2.gratispng.com/20180730/bgs/kisspng-logo-tnt-brand-television-channel-turner-broadcast-warner-music-logo-5b5eca20f14e79.5383225515329387849884.jpg" group-title="SERIES",TNT
