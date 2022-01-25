@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo= "https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png"group-title="TV ABERTA", RECORD 
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
  
 #EXTINF:-1 tvg-logo = "https://3.bp.blogspot.com/-njwQf1sIXcY/Ts_s6JrSOJI/AAAAAAAAKco/AoPOI4MYkRg/s1600/Logo+Band.png" group-title="TV ABERTA", BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w1179310692.m3u8
