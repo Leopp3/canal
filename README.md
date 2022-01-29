@@ -15,7 +15,8 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist_w118521
 #EXTINF:-1 tvg-logo = "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/espn-logo_divulgacao-590x219.png" group-title="ESPORTES",ESPN
 https://transcoder-itatiba-01.nxplay.com.br/ESPN_INT/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-logo="https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/espn-logo_divulgacao-590x219.png" group-title="ESPORTES",ESPN BR
+#EXTINF: -1 tvg-logo= "https://static-wp-tor15-prd.torcedores.com/wp-content/uploads/2020/01/espn-logo_divulgacao-590x219.png" group-title="ESPORTES",ESPN BR
 https://transcoder-itatiba-01.nxplay.com.br/ESPN_BR/tracks-v1a1/mono.m3u8
 
-
+#EXTINF: -1 tvg-logo= "https://logosmarcas.net/wp-content/uploads/2021/02/Comedy-Central-Logo.png" group-title="VARIEDADES" COMEDY CENTRAL
+https://server2.vizer.plus/playlist.m3u8?data=SUhHK0pnWUQ0clpPWEhlTWVIa0RPeVMzYllpbmwvMWRiZ1UrVWdqZ2Q0QkVWOWVXNTZXbGpnQzVOZW9KeXYrL3ZsM2d1bk5pUzFYdXBOUjZwZ0gxV0E9PTo6Z8VkBioYeRu1mGuMsMw10A%3D%3D&url=amEyTEU3VGN1bmtmK2VwUUxGdW1lWDhvN2ltNmcwWkNMUythUUg2aFR0Y2dZQUQ3bmtXTzdLWTVZVXBDNnMvampJUk5mKzJJZktrd3ZQWTRvSThQQWc9PTo6oerfUEmCD0rTMgr1ljZRbw%3D%3D&ref=Y3N6STlSSUgwN2R0NlRoajNBMktod2hyelBnNmh3NFVWaEgyNDE1OEJ1TT06Oo0RczOxs1ymooFVfcES0pw%3D&token=ff9d036a9150e5723e89f07127c343d2
